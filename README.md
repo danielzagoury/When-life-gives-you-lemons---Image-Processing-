@@ -24,7 +24,10 @@ We implemented a function for non-linear filters, which accepts a square image, 
 We applied various filters to our image, comparing our implementations with the corresponding OpenCV functions.
 
 ### Original Image
-![Original Image](images/lemons.jpg)
+<p align="center">
+<img src="images/lemons.jpg" width="270px">
+<img src="images/gray_img" width="270px">
+</p>
 
 ### Grayscale Image
 ![Grayscale Image](images/grayscale.jpg)
