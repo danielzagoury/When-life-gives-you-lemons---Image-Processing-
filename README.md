@@ -26,7 +26,7 @@ We applied various filters to our image, comparing our implementations with the 
 ### Original Image
 <p align="center">
 <img src="images/lemons.jpg" width="270px">
-<img src="images/gray_img.jpg" width="270px">
+<img src="images/gray_img.jpg" width="280px">
 </p>
 
 ### Grayscale Image
